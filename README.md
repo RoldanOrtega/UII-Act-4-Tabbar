@@ -19,7 +19,8 @@ Todas las páginas deben tener una imagen centrada de 200x200 px con un marco ro
 Usa estas imágenes de GitHub y PokeAPI: inicio1.png, heart-scale, fire-stone, rare-candy, dusk-stone y moon-stone.
 
 Organización del código:
-Quiero que el código esté limpio. El Inicio debe estar programado directamente en el main.dart, pero las otras 5 secciones (Romance, Acción, etc.) deben tener su propio archivo dentro de una carpeta llamada mis_paginas_tab. Por favor, no uses guiones bajos al inicio de los nombres de las variables que estén dentro de la función build para que no me de advertencias azules en VS Code."
+Quiero que el código esté limpio. El Inicio debe estar programado directamente en el main.dart, pero las otras 5 secciones (Romance, Acción, etc.) deben tener su propio archivo dentro de una carpeta llamada mis_paginas_tab. Por favor, no uses guiones bajos al inicio de los nombres de las variables que estén dentro de la función build para que no me de advertencias azules en VS Code."git init
+
 
 This project is a starting point for a Flutter application.
 
